@@ -1,0 +1,12 @@
+opencv-python==4.8.1.78
+ultralytics==8.0.196
+deepface==0.0.79
+numpy==1.24.3
+Pillow==10.0.1
+tensorflow==2.13.0
+torch==2.0.1
+torchvision==0.15.2
+torch-audio==2.0.1
+huggingface-hub==0.19.4
+supervision==0.16.0
+fer==22.3.0
